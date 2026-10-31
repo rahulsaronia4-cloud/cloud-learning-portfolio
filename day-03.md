@@ -23,5 +23,17 @@
 
 ## Day 3 Learning Outcome
 Practised Windows file permissions and network monitoring, created a basic cloud deployment plan, and understood cloud infrastructure availability.
-## Day 3 Screenshot Evidence
 
+# Day 3 – Practical Screenshots
+
+## 1. File Permissions
+![File Permissions](../Screenshot%202026-10-31%20163927.png)
+
+## 2. Network Ports
+![Network Monitoring](../Screenshot%202026-10-31%20163939.png)
+
+## 3. Cloud Deployment Plan
+![Deployment Plan](../Screenshot%202026-10-31%20163949.png)
+
+## 4. Additional Practical Output
+![Additional Output](../Screenshot%202026-10-31%20163843.png)
