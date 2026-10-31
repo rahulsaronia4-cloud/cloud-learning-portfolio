@@ -25,4 +25,3 @@
 Practised Windows file permissions and network monitoring, created a basic cloud deployment plan, and understood cloud infrastructure availability.
 ## Day 3 Screenshot Evidence
 
-![Day 3 Full Commands](https://raw.githubusercontent.com/rahulsaronia4-cloud/cloud-learning-portfolio/main/day3%20full%20commands%20.png)
